@@ -1,6 +1,6 @@
 # Random Quotes
 
-## [Website](...)
+## [Website](https://randoms-quote-js.netlify.app/)
 
 > ## Tecnologías utilizadas
 >
@@ -15,6 +15,8 @@
 > - [x] Use JavaScript to add interactivity.
 > - [x] Users should be able to see a random quote when they first visit the page.
 > - [x] Users should be able to see a random quote after they select the random button.
-> - [x]The page should be responsive on different screen sizes.
+> - [x] The page should be responsive on different screen sizes.
 
 ## This project is deploy in Netlify
+
+![screenshot](./screenshots/screenshot.png)
